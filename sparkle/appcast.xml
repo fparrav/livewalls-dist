@@ -4,15 +4,15 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>LiveWalls Updates</title>
-    <link>https://github.com/fparrav/livewalls-dist/releases/tag/v1.5.9</link>
+    <link>https://github.com/fparrav/livewalls-dist/releases/tag/v1.5.10</link>
     <description>Latest updates for LiveWalls</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Oct 2025 21:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 14:28:26 +0000</lastBuildDate>
     <item>
-      <title>LiveWalls v1.5.9</title>
-      <link>https://github.com/fparrav/livewalls-dist/releases/tag/v1.5.9</link>
-      <pubDate>Wed, 08 Oct 2025 21:06:49 +0000</pubDate>
-      <enclosure url="https://github.com/fparrav/livewalls-dist/releases/download/v1.5.9/LiveWalls-v1.5.9.dmg" sparkle:version="202510081804" sparkle:shortVersionString="1.5.9" sparkle:edSignature="nqI/YmW+e9ahRSM63kiR+b/dFnMxbySLNsYm71PbyXKlqQyg6VisvaYEbCW0b/dTy0cGPKa9r8axsvX23Ev2Bw==" length="2858420" type="application/octet-stream"/>
+      <title>LiveWalls v1.5.10</title>
+      <link>https://github.com/fparrav/livewalls-dist/releases/tag/v1.5.10</link>
+      <pubDate>Thu, 09 Oct 2025 14:28:26 +0000</pubDate>
+      <enclosure url="https://github.com/fparrav/livewalls-dist/releases/download/v1.5.10/LiveWalls-v1.5.10.dmg" sparkle:version="202510091125" sparkle:shortVersionString="1.5.10" sparkle:edSignature="m8MIeWmRdWnvSPinYpvs3G0mEBiB3wMNgk469xvaWmDjGXwXzgRBGJK4Wi45IepWGZ4ibU/LkYTpmElPy9yMCg==" length="2858490" type="application/octet-stream"/>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
     </item>
   </channel>
